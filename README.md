@@ -1,1 +1,1 @@
-Practice with pytorch from the course
+Practice with pytorch from 'Deep Learning and Neural Networks in PyTorch for Beginners' by Daniel We and 'Machine Learning with PyTorch' by David Mertz
